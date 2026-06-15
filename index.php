@@ -14,7 +14,7 @@
 
             <div class="card shadow">
                 <div class="card-header text-center bg-primary text-white">
-                    LOGIN SISTEM 
+                    LOGIN KE SISTEM fARMASI
                 </div>
 
                 <div class="card-body">
