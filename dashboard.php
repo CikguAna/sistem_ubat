@@ -11,7 +11,7 @@
 <div class="container mt-4">
 
 
-<h2 class="mb-4">Senarai Maklumat Ubat</h2>
+<h2 class="mb-4">Senarai Maklumat Ubat di Bahagian Farmasi</h2>
 
 <table class="table table-bordered table-striped">
 <tr>
